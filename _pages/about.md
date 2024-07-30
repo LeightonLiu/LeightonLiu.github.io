@@ -11,7 +11,7 @@ I'm a first year PhD student in Accountancy from [CUHK Business School](https://
 
 Proior joining the School of Accountancy, CUHK, I obtained a MPhil and B.B.A degree both in Accounting from [Shanghai University of Finance and Economics](https://english.sufe.edu.cn/).
 
-You can find my CV here: [Haoran LIU's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Haoran LIU's Curriculum Vitae](../assets/CV_HaoranLIU.pdf).
 
 Email: haoran[dot]leighton[dot]liu[at]outlook[dot]com)
 
