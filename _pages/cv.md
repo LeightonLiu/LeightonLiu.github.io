@@ -74,9 +74,8 @@ Talks
 
 Teaching
 ======
-**Accounting Principles (Undergraduate)**, Teaching Assistant, Shanghai University of Finance and Economics
-
-**Financial Accounting (Undergraduate)**, Teaching Assistant, Shanghai University of Finance and Economics
+* **Accounting Principles (Undergraduate)**, Teaching Assistant, Shanghai University of Finance and Economics
+* **Financial Accounting (Undergraduate)**, Teaching Assistant, Shanghai University of Finance and Economics
 
 <!--
 Service and leadership
