@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can find my CV here: [Haoran LIU's Curriculum Vitae](../assets/CV_HaoranLIU.pdf). 
+
 Education
 ======
 * Ph.D in Accountancy, the Chinese University of Hong Kong, 2024 - Present
@@ -23,16 +25,12 @@ Work experience
   
 Skills
 ======
-* Programming
-  * Stata
-  * Python
-  * R  
-* Machine Learning
-  * scikit-learn
-  * Tensorflow
-* Typesetting
-  * \(\LaTeX\)
-  * Microsoft Office
+* Programming: Stata, Python, R
+
+* Machine Learning: scikit-learn, ensorflow
+  * Have taken: [Machine  Learning Specialization](https://coursera.org/verify/specialization/EADMTL4DNUAA), [Deep Learning Specialization](https://coursera.org/verify/specialization/PG3KKWFFEGGC), [NLP Specialization](https://coursera.org/verify/specialization/PHYZU37G4FJZ)
+
+* Typesetting: LaTex, Microsoft Office
 
 <!--
 Publications
