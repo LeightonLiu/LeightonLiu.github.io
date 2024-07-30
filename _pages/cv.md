@@ -55,7 +55,7 @@ Skills
 * **Machine Learning:** scikit-learn, Tensorflow
   * Have taken: [Machine  Learning Specialization](https://coursera.org/verify/specialization/EADMTL4DNUAA), [Deep Learning Specialization](https://coursera.org/verify/specialization/PG3KKWFFEGGC), [NLP Specialization](https://coursera.org/verify/specialization/PHYZU37G4FJZ)
 * **Typesetting:** LaTex, Microsoft Office
-* **Social Network Analysi:** Networkx, igraph, gephi
+* **Social Network Analysis:** Networkx, igraph, gephi
   * Have taken: [Social Network Analysis](https://coursera.org/verify/7XNJ9BHKVTNN)
 
 <!--
