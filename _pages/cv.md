@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Accountancy, the Chinese University of Hong Kong, 2024 - Present
+* MPhil. in Accounting, Shanghai University of Finance and Economics, 2024
+* B.B.A. inAccounting, Shanghai University of Finance and Economics, 2022
 
 Work experience
 ======
@@ -46,7 +46,7 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
@@ -55,10 +55,10 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+Accounting Principles (Undergraduate), Teaching Assistant, Shanghai University of Finance and Economics
+Financial Accounting (Undergraduate), Teaching Assistant, Shanghai University of Finance and Economics
+
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
