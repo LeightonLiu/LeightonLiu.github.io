@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CV here: [Haoran LIU's Curriculum Vitae](../assets/CV_HaoranLIU.pdf). 
+You can find my pdf-formatted CV here: [Haoran LIU's Curriculum Vitae](../assets/CV_HaoranLIU.pdf). 
 
 Education
 ======
@@ -17,13 +17,24 @@ Education
 * **MPhil. in Accounting, Shanghai University of Finance and Economics, 2024**
 * **B.B.A. inAccounting, Shanghai University of Finance and Economics, 2022**
 
-Work experience
+Research Experience
 ======
-* China Industrial Securities Co., Ltd., Research Institute
+* **Project on Accounting and Labor & Prodcut Market**
+  * Dec. 2023 - Jul. 2024: Research Assistant
+* **Project on Industry-operation Information Disclosure**, funded by NSFC
+  * Feb. 2023 - Present: Participant, in progress
+* **Project on Government Guarantees and Bond Pricing**, funded by NSSFC
+  * Dec. 2022 - Nov. 2022: Research Assistant
+* **Project on Differences between Tax and Financial Accounting**, 
+  * Mar. 2021 - Jun. 2021: Research Assistant
+
+Work Experience
+======
+* **China Industrial Securities Co., Ltd., Research Institute**
   * Nov. 2021 - Apr. 2022: Fixed Income Analyst Intern
 
 
-Awads
+Awards
 ======
 * College Graduate Excellence Award of Shanghai, May. 2024
 * Award for Postgraduate Studentship, the Chinese University of Hong Kong, Feb. 2024
