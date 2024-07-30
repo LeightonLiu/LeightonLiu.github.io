@@ -12,7 +12,7 @@ title                    : "Haoran (Leighton) LIU"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://https://leightonliu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Phd Student in Accountancy"
   location         : "Shatin, N.T., Hong Kong"
-  employer         : "The School of Accountancy, the Chinese University of Hong Kong"
+  employer         : "The Chinese University of Hong Kong"
   uri              : # URL
   email            : #"none@example.org" 
 
