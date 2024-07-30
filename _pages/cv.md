@@ -22,15 +22,6 @@ Work experience
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
@@ -41,24 +32,30 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
+<!--
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
 
+<!--
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+-->
+
 Teaching
 ======
 Accounting Principles (Undergraduate), Teaching Assistant, Shanghai University of Finance and Economics
+
 Financial Accounting (Undergraduate), Teaching Assistant, Shanghai University of Finance and Economics
 
-
+<!--
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
