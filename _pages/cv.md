@@ -17,20 +17,22 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Nov. 2021 - Apr. 2022: Fixed Income Analyst Intern
+  * China Industrial Securities Co., Ltd., Research Institute
 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Stata
+  * Python
+  * R  
+* Machine Learning
+  * scikit-learn
+  * Tensorflow
+* Typesetting
+  * \(\LaTeX\)
+  * Microsoft Office
 
 <!--
 Publications
