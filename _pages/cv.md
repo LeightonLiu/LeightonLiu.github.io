@@ -15,7 +15,7 @@ Education
 ======
 * **Ph.D in Accountancy, the Chinese University of Hong Kong, 2024 - Present**
 * **MPhil. in Accounting, Shanghai University of Finance and Economics, 2024**
-* **B.B.A. inAccounting, Shanghai University of Finance and Economics, 2022**
+* **B.B.A. in Accounting, Shanghai University of Finance and Economics, 2022**
 
 Research Experience
 ======
