@@ -13,4 +13,5 @@ I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX La
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:haoran.leighton.liu[at]outlook.com) / [Linkedin](https://www.linkedin.com/in/haoran-leighton-liu/)
+Email: haoran[dot]leighton[dot]liu[at]outlook[dot]com)
+[Linkedin](https://www.linkedin.com/in/haoran-leighton-liu/)
