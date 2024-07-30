@@ -14,4 +14,5 @@ Proior joining the School of Accountancy, CUHK, I obtained a Mphil and B.B.A deg
 You can find my CV here: [Haoran LIU's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 Email: haoran[dot]leighton[dot]liu[at]outlook[dot]com)
+
 [Linkedin](https://www.linkedin.com/in/haoran-leighton-liu/)
