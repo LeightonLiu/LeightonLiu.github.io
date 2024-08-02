@@ -24,7 +24,7 @@ Research Experience
 * **Project on Industry-operation Information Disclosure**, funded by NSFC
   * Feb. 2023 - Present: Participant, in progress
 * **Project on Government Guarantees and Bond Pricing**, funded by NSSFC
-  * Dec. 2022 - Nov. 2022: Research Assistant
+  * Dec. 2021 - Nov. 2022: Research Assistant
 * **Project on Differences between Tax and Financial Accounting**, 
   * Mar. 2021 - Jun. 2021: Research Assistant
 
