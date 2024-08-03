@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my pdf-formatted CV here: [Haoran LIU's Curriculum Vitae](../assets/CV_HaoranLIU.pdf). 
+
 
 Education
 ======
@@ -84,3 +84,5 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams
 -->
+
+You can find a PDF copy of my CV here: [Haoran LIU's Curriculum Vitae](../assets/CV_HaoranLIU.pdf). 
