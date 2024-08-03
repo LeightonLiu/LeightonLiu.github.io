@@ -85,4 +85,6 @@ Service and leadership
 * Currently signed in to 43 different slack teams
 -->
 
+<br/>
+<br/>
 You can find a PDF copy of my CV here: [Haoran LIU's Curriculum Vitae](../assets/CV_HaoranLIU.pdf). 
