@@ -86,5 +86,4 @@ Service and leadership
 -->
 
 <br/>
-<br/>
-You can find a PDF copy of my CV here: [Haoran LIU's Curriculum Vitae](../assets/CV_HaoranLIU.pdf). 
+You can also find a PDF copy of my CV here: [Haoran LIU's Curriculum Vitae](../assets/CV_HaoranLIU.pdf). 
