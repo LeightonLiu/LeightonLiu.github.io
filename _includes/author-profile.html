@@ -8,9 +8,9 @@
 
     <div class="author__university">
     {% if author.university_logo contains "://" %}
-    	<img src="{{ author.university_logo}}" alt="The Chinese University of Hong Kong" style="max-width: 80%">
+    	<img src="{{ author.university_logo}}" alt="The Chinese University of Hong Kong" style="max-width: 70%">
     {% else %}
-    	<img src="{{ author.university_logo | prepend: "/images/" | prepend: base_path }}" style="max-width: 80%" class="author__university" alt="The Chinese University of Hong Kong">
+    	<img src="{{ author.university_logo | prepend: "/images/" | prepend: base_path }}" style="max-width: 70%" class="author__university" alt="The Chinese University of Hong Kong">
     {% endif %}
     </div>
   
