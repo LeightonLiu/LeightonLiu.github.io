@@ -6,11 +6,6 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
-# Header
-header:
-  overlay_image: images/CUHK.png
-  caption: "Haoran (Leighton) LIU | PhD Student @CUHK"
-
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Haoran (Leighton) LIU"
@@ -222,6 +217,10 @@ collections:
 
 # Defaults
 defaults:
+  # Header
+  - header:
+      overlay_image: images/CUHK.png
+      caption: "Haoran (Leighton) LIU | PhD Student @CUHK"
   # _posts
   - scope:
       path: ""
