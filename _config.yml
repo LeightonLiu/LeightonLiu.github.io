@@ -217,10 +217,6 @@ collections:
 
 # Defaults
 defaults:
-  # Header
-  - header:
-      overlay_image: images/CUHK.png
-      caption: "Haoran (Leighton) LIU | PhD Student @CUHK"
   # _posts
   - scope:
       path: ""
