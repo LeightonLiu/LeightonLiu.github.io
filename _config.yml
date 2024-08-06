@@ -21,6 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
+  university_logo  : "university_logo.png"
   avatar           : "avatar.png"
   name             : "Haoran (Leighton) LIU"
   pronouns         : # example: "she/her"  
