@@ -8,11 +8,6 @@ html {
   /* apply a natural box layout model to all elements */
   box-sizing: border-box;
   // background-color: $background-color;
-  background-image: url("CUHK.png")
-  background-size: 100%;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center;
   font-size: 16px;
 
   @include breakpoint($medium) {
@@ -25,7 +20,14 @@ html {
 
 /* Remove margin */
 
-body { margin: 0; }
+body { 
+   margin: 0; 
+   background-image: url("../images/CUHK.png");
+   background-size: 100%;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-position: center;
+}
 
 /* Selected elements */
 
