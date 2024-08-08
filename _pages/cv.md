@@ -13,9 +13,9 @@ redirect_from:
 
 Education
 ======
-* **Ph.D. in Accountancy, the Chinese University of Hong Kong, 2024 - Present**
-* **M.Phil. in Accounting, Shanghai University of Finance and Economics, 2024**
-* **B.B.A. in Accounting, Shanghai University of Finance and Economics, 2022**
+* **Ph.D. Student in Accountancy, the Chinese University of Hong Kong, Aug. 2024 - Present**
+* **M.Phil. in Accounting, Shanghai University of Finance and Economics, Jun. 2024**
+* **B.B.A. in Accounting, Shanghai University of Finance and Economics, Jun. 2022**
 
 Research Experience
 ======
