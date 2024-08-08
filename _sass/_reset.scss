@@ -17,8 +17,6 @@ html {
   background-attachment: fixed;
   background-position: center;
 
-  background-color: #92a8d1;
-
   @include breakpoint($medium) {
     font-size: 18px;
   }
