@@ -8,6 +8,14 @@ html {
   /* apply a natural box layout model to all elements */
   box-sizing: border-box;
   // background-color: $background-color;
+  // background-image: url("../images/CUHK.png);
+   
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../images/CUHK.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+
   background-color: #92a8d1;
 
   @include breakpoint($medium) {
