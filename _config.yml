@@ -114,8 +114,8 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification : <meta name="google-site-verification" content="rbWDygkuDGCHcYiEIG-GX6okfIicwL2pY-rwFDOrkvM" />
-bing_site_verification   : <meta name="msvalidate.01" content="2A5011973E76A15936F317E28CC5246D" />
+google_site_verification : "rbWDygkuDGCHcYiEIG-GX6okfIicwL2pY-rwFDOrkvM"
+bing_site_verification   : "2A5011973E76A15936F317E28CC5246D"
 alexa_site_verification  :
 yandex_site_verification :
 
