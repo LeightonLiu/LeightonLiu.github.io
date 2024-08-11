@@ -76,9 +76,9 @@ author:
 
 
 # Site Settings
-page:
-  header:
-    image: "CUHK.png"
+header:
+  overlay_image: /images/CUHK.png
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -125,7 +125,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "aaa"
+  username               : # Twitter
 facebook:
   username               :
   app_id                 :
