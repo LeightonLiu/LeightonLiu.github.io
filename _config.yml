@@ -125,7 +125,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : "aaa"
 facebook:
   username               :
   app_id                 :
