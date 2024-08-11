@@ -85,17 +85,12 @@
   {% endif %}
 {% endif %}
 
-<!-- {% if page.header.image %}
-  <meta property="og:image" content="{% if page.header.image contains "://" %}{{ page.header.image }}{% else %}{{ page.header.image | prepend: "/images/" | prepend: base_path }}{% endif %}">
-{% elsif page.header.overlay_image %}
-  <meta property="og:image" content="{% if page.header.overlay_image contains "://" %}{{ page.header.overlay_image }}{% else %}{{ page.header.overlay_image | prepend: "/images/" | prepend: base_path }}{% endif %}">
-{% endif %} -->
-
-{% if site.header_image %}
-  <meta property="og:image" content="{% if site.header_image contains "://" %}{{ site.header_image }}{% else %}{{ site.header_image | prepend: "/images/" | prepend: base_path }}{% endif %}">
-{% elsif page.header.overlay_image %}
-  <meta property="og:image" content="{% if site.overlay_image contains "://" %}{{ site.overlay_image }}{% else %}{{ site.overlay_image | prepend: "/images/" | prepend: base_path }}{% endif %}">
+{% if site.header.image %}
+  <meta property="og:image" content="{% if site.header.image contains "://" %}{{ site.header.image }}{% else %}{{ site.header.image | prepend: "/images/" | prepend: base_path }}{% endif %}">
+{% elsif site.header.overlay_image %}
+  <meta property="og:image" content="{% if site.header.overlay_image contains "://" %}{{ site.header.overlay_image }}{% else %}{{ site.header.overlay_image | prepend: "/images/" | prepend: base_path }}{% endif %}">
 {% endif %}
+
 
 {% if page.date %}
   <meta property="og:type" content="article">
