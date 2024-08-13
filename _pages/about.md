@@ -13,4 +13,4 @@ My research interests include **Disclosure, Financial Statement Analysis, Inform
 
 Free free to contact me if you are interested in similar topics!
 
-You can find my **CV** here: [**Haoran LIU's Curriculum Vitae**](../assets/CV_HaoranLIU.pdf).
+You can find my **CV** [**here**](../assets/CV_HaoranLIU.pdf).
