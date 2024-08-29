@@ -47,7 +47,7 @@ Awards
 * First Prize of the People’s Scholarship, Dec. 2020
 * Second Prize (Shanghai Division) of China Undergraduate Mathematical Contest in Modeling, Dec. 2020
 * College Student Outstanding Award of Shanghai University of Finance and Economics, Dec. 2020; Dec. 2021
-* Finalist of the Interdisciplinary Contest in Modeling, Apr. 2020
+* [Finalist of the Interdisciplinary Contest in Modeling, Apr. 2020](https://www.comap-math.org/mcm/2020Certs/2005983.pdf)
 * Second Prize of the People’s Scholarship, Dec. 2019
 
 Skills
