@@ -30,7 +30,7 @@ Research Experience
 
 Professional Services
 ======
-* **Ad-hoc Referee for:** Asian Review of Accounting
+* **Ad-hoc Referee for:** [Asian Review of Accounting](https://www.emeraldgrouppublishing.com/journal/ara)
 * **China Industrial Securities Co., Ltd., Research Institute**
   * Nov. 2021 - Apr. 2022: Fixed Income Analyst Intern
 
