@@ -15,4 +15,4 @@ Free free to contact me if you are interested in similar topics!
 
 You can find my **CV** [**here**](../assets/CV_HaoranLIU.pdf).
 
-For for information, please visit my [**new homepage**](https://sites.google.com/view/haoran-liu/home).
+**Please visit my** [**new homepage**](https://sites.google.com/view/haoran-liu/home) **for more updated information.**
